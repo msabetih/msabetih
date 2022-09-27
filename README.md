@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Mona, and I'm currently taking my first scripting programming course at universtiy! 
 
 <!--
 **msabetih/msabetih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
