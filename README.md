@@ -1,5 +1,9 @@
-### Hi there 👋
-### I'm Mona, and I'm currently taking my first scripting programming course at universtiy! 
+👋 Hi, I'm Mona!
+
+- 📚 I am currently a third year undergraduate student studying Software Engineering
+- 🖥️ Languages I have some experience with include Java, JavaScript, HTML, CSS, Python, and SQL
+- 🌱 I'm currently working on learning web development frameworks such as Angular and React, to improve my front-end development skills
+- 🤖 Additionally, I'm really interested in learning more about the development of AI
 
 <!--
 **msabetih/msabetih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
