@@ -9,6 +9,6 @@
 - **Databases:** PostgreSQL, MySQL, ChromaDB
 - **Tools and Cloud Platforms:** Git, GitHub, Jupyter Notebook, Docker, AWS, GCP
 
-🤖 I'm particularly interested in **Artificial Intelligence, Machine Learning, and Software Development**, and enjoy applying these technologies to real-world problems.
+🤖 I'm particularly interested in **Machine Learning, Cybersecurity, and Software Development**, and enjoy applying these technologies to real-world problems.
 
-🌱 I'm currently expanding my knowledge in **AI, machine learning, and cybersecurity** through graduate coursework and personal projects.
+🌱 I'm currently expanding my skills through graduate coursework and personal projects, with a focus on AI, cybersecurity, and software engineering.
