@@ -1,21 +1,14 @@
-👋 Hi, I'm Mona!
+# 👋 Hi, I'm Mona!
 
-- 📚 I am currently a third year undergraduate student studying Software Engineering
-- 🖥️ Languages I have some experience with include Java, JavaScript, HTML, CSS, Python, and SQL
-- 🌱 I'm currently working on learning web development frameworks such as Angular and React, to improve my front-end development skills
-- 🤖 Additionally, I'm really interested in learning more about the development of AI
+🎓 I'm currently pursuing a **Master of Engineering (MEng) in Software Engineering** at Western University, where I also completed my Bachelor of Engineering in Software Engineering.
 
-<!--
-**msabetih/msabetih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Technologies I've worked with:**
+- **Programming Languages:** Python, Java, C++, JavaScript, TypeScript, SQL
+- **Web Development:** React, Next.js, HTML, CSS, Tailwind CSS, Node.js, Flask
+- **AI / Machine Learning:** PyTorch, scikit-learn, NumPy, Pandas, Matplotlib
+- **Databases:** PostgreSQL, MySQL, ChromaDB
+- **Tools and Cloud Platforms:** Git, GitHub, Jupyter Notebook, Docker, AWS, GCP
 
-Here are some ideas to get you started:
+🤖 I'm particularly interested in **Artificial Intelligence, Machine Learning, and Software Development**, and enjoy applying these technologies to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently expanding my knowledge in **AI, machine learning, and cybersecurity** through graduate coursework and personal projects.
